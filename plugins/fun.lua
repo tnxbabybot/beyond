@@ -1,6 +1,6 @@
 
---Begin Fun.lua By @BeyondTeam
---Special Thx To @To0fan
+--Begin Fun.lua By 
+--Special Thx To 
 --------------------------------
 
 local function run_bash(str)
@@ -523,4 +523,4 @@ return {
 	run = run,
 	}
 
---#by @BeyondTeam :)
+--#by 
