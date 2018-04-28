@@ -103,9 +103,9 @@ An advanced administration bot based on https://valtman.name/telegram-cli
 》Special thanks to :
 》Beyond Team Members
 》Our channel :
-》@BeyondTeam《
+》《
 》Our website :
-》http://Beyond-Dev.iR
+》
 ]],
   }
 	serialize_to_file(config, './data/config.lua')
